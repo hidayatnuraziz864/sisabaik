@@ -1,5 +1,6 @@
-# SisaBaik
 <i> Developed by Hidayat Nur Aziz (23367069)</i>
+# SisaBaik
+
 SisaBaik adalah proyek berkembang pada mata kuliah Pengembangan Web. Aplikasi ini dirancang untuk membantu penyedia
 memulihkan nilai stok makanan berlebih melalui penjualan dengan harga khusus atau penyaluran, sekaligus membantu
 masyarakat memperoleh makanan yang lebih terjangkau dan mengurangi limbah pangan.
